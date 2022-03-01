@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+   
+}
+span{
+    background-color:cyan;
+    font-size:50px;
+}
+
+h1,h3,p{
+    color:black;
+    background-color:aquamarine;
+}
+h2,h4{
+    color:aqua;
+}
+.make{
+    width:3%; 
+    height:50;
+    margin:1%;
+}
+#para{
+    color:aqua;
+    font-size:20px;
+    background-color: black;
+}
